@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Me chamo João Pedro</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software | 💻 Apaixonado por Python e tecnologia  
+🎓 Estudante de Engenharia de Software | 💻 Apaixonado por Python e tecnologia <br>
 📍 Distrito Federal, Brasil
 </p>
 
@@ -9,11 +9,11 @@
 
 ### 💡 Sobre mim
 
-- 🎓 Cursando Engenharia de Software na FCTE
-- 🧠 Gosto de resolver problemas usando lógica e automação
-- 🔎 Atualmente aprendendo mais sobre desenvolvimento de software e projetos pessoais
-- ✨ Em busca de oportunidades para aplicar meus conhecimentos em ambientes reais
-- 🎮 Gosto muito de jogos
+- 🎓 Cursando Engenharia de Software na FCTE  
+- 🧠 Gosto de resolver problemas usando lógica e automação  
+- 🔎 Atualmente aprendendo mais sobre desenvolvimento de software e projetos pessoais  
+- ✨ Em busca de oportunidades para aplicar meus conhecimentos em ambientes reais  
+- 🎮 Gosto muito de jogos  
 
 ---
 
@@ -29,15 +29,15 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoPedro-201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPedro-201&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro-201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-201&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ### 📁 Repositórios em Destaque
 
-- 🎮 projeto-OO – Jogo de Pedra, Papel e Tesoura desenvolvido com conceitos de Orientação a Objetos em Python
+- 🎮 **[projeto-OO](https://github.com/joaopedro-201/projeto-OO)** – Jogo de Pedra, Papel e Tesoura desenvolvido com conceitos de Orientação a Objetos em Python
 
 ---
 
@@ -47,4 +47,6 @@
 
 ---
 
-> *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos ou entrar em contato.* 🚀
+<p align="center">
+  <em>Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos ou entrar em contato. 🚀</em>
+</p>
