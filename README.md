@@ -1,26 +1,26 @@
-<h2 align="center">Hi👋My name is João</h2>
+<h2 align="center">👋 Hi, I'm João Pedro</h2>
 
 ###
 
+💻 **About Me**  
+- 🎓 Software Engineering student at **FCTE**  
+- 🌱 Currently learning Data Structures, Algorithms, and Web Development
+- 🔭 Passionate about software development and solving real-world problems  
+- 📍 Based in Brazil  
+
+---
+
+🛠️ **Tech Stack**  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="43" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="43" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </div>
-
-###
 
 <div align="center">
 </div>
@@ -39,5 +39,33 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoPedro-201/joaoPedro-201/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaoPedro-201/joaoPedro-201/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+📚 **Currently Learning**  
+- Advanced Python (automation and data analysis)  
+- Web Development  
+- DevOps fundamentals and GitHub Actions  
+
+---
+
+🔥 **Highlighted Projects**  
+- 🎮 [Rock, Paper, Scissors Game](https://github.com/joaoPedro-201/Projeto_OO) → A fun project using Python and OOP  
+- 🖼️ [Image Compressor](https://github.com/joaoPedro-201/compress-image-to-70kb) → Python script to compress images to 70kb  
+
+---
+
+📫 **Get in Touch**  
+- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/joão-pedro-7a76b426a)  
+- 📧 Email: joaopedroabc201@gmail.com 
+
+---
+
+⭐ *Feel free to check out my repositories and leave a star if you like my work!*  
+
+
+###
+
+
 
 ###
