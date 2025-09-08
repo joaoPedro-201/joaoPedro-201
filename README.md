@@ -1,52 +1,43 @@
-<h1 align="center">Olá! 👋 Me chamo João Pedro</h1>
+<h2 align="center">Hi👋My name is João</h2>
 
-<p align="center">
-🎓 Estudante de Engenharia de Software | 💻 Apaixonado por Python e tecnologia <br>
-📍 Distrito Federal, Brasil
-</p>
-
----
-
-### 💡 Sobre mim
-
-- 🎓 Cursando Engenharia de Software na FCTE  
-- 🧠 Gosto de resolver problemas usando lógica e automação  
-- 🔎 Atualmente aprendendo mais sobre desenvolvimento de software e projetos pessoais  
-- ✨ Em busca de oportunidades para aplicar meus conhecimentos em ambientes reais  
-- 🎮 Gosto muito de jogos  
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
----
-
-### 📊 Estatísticas do GitHub
+###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro-201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-201&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="43" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="43" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="43" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
 </div>
 
----
+###
 
-### 📁 Repositórios em Destaque
+<div align="center">
+</div>
 
-- 🎮 **[projeto-OO](https://github.com/joaopedro-201/projeto-OO)** – Jogo de Pedra, Papel e Tesoura desenvolvido com conceitos de Orientação a Objetos em Python
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoPedro-201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoPedro-201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+</div>
 
-### 📫 Contato
+###
 
-📧 joaopedroabc201@gmail.com  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoPedro-201/joaoPedro-201/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoPedro-201/joaoPedro-201/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaoPedro-201/joaoPedro-201/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-<p align="center">
-  <em>Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos ou entrar em contato. 🚀</em>
-</p>
+###
