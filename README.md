@@ -1,25 +1,30 @@
-<h2 align="center">👋 Hi, I'm João Pedro</h2>
+<h2 align="center">👋 Olá, me chamo João Pedro!</h2>
 
 ###
 
-💻 **About Me**  
-- 🎓 Software Engineering student at **FCTE**  
-- 🌱 Currently learning Data Structures, Algorithms, and Web Development
-- 🔭 Passionate about software development and solving real-world problems  
-- 📍 Based in Brazil  
+💻 **Sobre Mim**
+
+Sou o João Pedro, estudante de Engenharia de Software. Meu foco é simples: transformar problemas complexos em soluções elegantes.
+
+Estou atualmente mergulhado em Estrutura de Dados, Algoritmos e Desenvolvimento Web, sempre com o objetivo de aprender algo novo todos os dias.
+
+Meu objetivo é construir projetos dos quais eu me orgulhe.
 
 ---
 
-🛠️ **Tech Stack**  
+🛠️ **Tecnologias**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
 </div>
 
 <div align="center">
@@ -42,27 +47,26 @@
 
 ---
 
-📚 **Currently Learning**  
-- Advanced Python (automation and data analysis)  
-- Web Development  
-- DevOps fundamentals and GitHub Actions  
+📚 **Aprendendo atualmente**
+- Python avançado (automação e análise de dados)
+- Desenvolvimento Web
+- Fundamentos de DevOps e GitHub Actions
+  
+---
+
+🔥 **Principais projetos**  
+- 🎮 [Pedra, Papel e Tesoura](https://github.com/joaoPedro-201/Projeto_OO) → Um projeto divertido usando Python e POO
+- 🖼️ [Compressor de Imagens](https://github.com/joaoPedro-201/compress-image-to-70kb) → Script em Python para compactar imagens
 
 ---
 
-🔥 **Highlighted Projects**  
-- 🎮 [Rock, Paper, Scissors Game](https://github.com/joaoPedro-201/Projeto_OO) → A fun project using Python and OOP  
-- 🖼️ [Image Compressor](https://github.com/joaoPedro-201/compress-image-to-70kb) → Python script to compress images to 70kb  
+📫 **Entre em contato**
+- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/joão-pedro-7a76b426a)
+- 📧 E-mail: joaopedroabc201@gmail.com
 
 ---
 
-📫 **Get in Touch**  
-- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/joão-pedro-7a76b426a)  
-- 📧 Email: joaopedroabc201@gmail.com 
-
----
-
-⭐ *Feel free to check out my repositories and leave a star if you like my work!*  
-
+⭐ *Sinta-se à vontade para conferir meus repositórios e deixar uma estrela se gostar do meu trabalho!*
 
 ###
 
