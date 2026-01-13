@@ -55,7 +55,7 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 ---
 
 🔥 **Principais projetos**  
-- 🏥 [OncoMap](LINK_DO_SEU_REPOSITORIO_AQUI) → Relatórios de transparência pública sobre investimentos oncológicos no Brasil
+- 🏥 [OncoMap](https://github.com/unb-mds/2025-2-OncoMap) → Relatórios de transparência pública sobre investimentos oncológicos no Brasil
 - 🎮 [Pedra, Papel e Tesoura](https://github.com/joaoPedro-201/Projeto_OO) → Um projeto divertido usando Python e POO
 - 🖼️ [Compressor de Imagens](https://github.com/joaoPedro-201/compress-image-to-70kb) → Script em Python para compactar imagens
 
