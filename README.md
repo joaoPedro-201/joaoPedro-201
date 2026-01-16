@@ -12,8 +12,7 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 
 ---
 
-🛠️ **Tecnologias**  
-<div align="center">
+🛠️ **Tecnologias** <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
@@ -23,8 +22,13 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
   <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJS" />
 </div>
 
 <div align="center">
@@ -49,12 +53,13 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 
 📚 **Aprendendo atualmente**
 - Python avançado (automação e análise de dados)
-- Desenvolvimento Web
+- Desenvolvimento Web Full Stack (React & NestJS)
 - Fundamentos de DevOps e GitHub Actions
   
 ---
 
-🔥 **Principais projetos**  
+🔥 **Principais projetos** 
+- 📦 [DropManager](https://github.com/joaoPedro-201/drop-manager) → Sistema Full Stack para gestão e precificação de produtos importados (NestJS + React)
 - 🏥 [OncoMap](https://github.com/unb-mds/2025-2-OncoMap) → Relatórios de transparência pública sobre investimentos oncológicos no Brasil
 - 🎮 [Pedra, Papel e Tesoura](https://github.com/joaoPedro-201/Projeto_OO) → Um projeto divertido usando Python e POO
 - 🖼️ [Compressor de Imagens](https://github.com/joaoPedro-201/compress-image-to-70kb) → Script em Python para compactar imagens
@@ -68,9 +73,3 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 ---
 
 ⭐ *Sinta-se à vontade para conferir meus repositórios e deixar uma estrela se gostar do meu trabalho!*
-
-###
-
-
-
-###
