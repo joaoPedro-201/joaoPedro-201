@@ -67,7 +67,7 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 ---
 
 📫 **Entre em contato**
-- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/joão-pedro-7a76b426a)
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/joao-pedro-7a76b426a/)
 - 📧 E-mail: joaopedroabc201@gmail.com
 
 ---
