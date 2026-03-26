@@ -52,22 +52,24 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 ---
 
 📚 **Aprendendo atualmente**
-- Python avançado (automação e análise de dados)
-- Desenvolvimento Web Full Stack (React & NestJS)
-- Fundamentos de DevOps e GitHub Actions
+- Python avançado - Foco em automação de processos e análise de dados complexos.
+- Desenvolvimento Web Backend – Aprofundamento em arquiteturas escaláveis e APIs robustas.
+- DevOps & GitHub Actions – Implementação de CI/CD e fundamentos de cultura ágil.
   
 ---
 
 🔥 **Principais projetos** 
 - 📦 [DropManager](https://github.com/joaoPedro-201/drop-manager) → Sistema Full Stack para gestão e precificação de produtos importados (NestJS + React)
+- 🏀 [Analisador de estatísticas NBA](https://github.com/joaoPedro-201/nba-analise) → Ferramenta de análise de estatísticas da liga americana de basquete. Desenvolvido com Python e Streamlit.
 - 🏥 [OncoMap](https://github.com/unb-mds/2025-2-OncoMap) → Relatórios de transparência pública sobre investimentos oncológicos no Brasil
 - 🎮 [Pedra, Papel e Tesoura](https://github.com/joaoPedro-201/Projeto_OO) → Um projeto divertido usando Python e POO
 - 🖼️ [Compressor de Imagens](https://github.com/joaoPedro-201/compress-image-to-70kb) → Script em Python para compactar imagens
+  
 
 ---
 
 📫 **Entre em contato**
-- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/joao-pedro-7a76b426a/)
+- 💼 [Linkedin](https://www.linkedin.com/in/joao-pedro-7a76b426a/)
 - 📧 E-mail: joaopedroabc201@gmail.com
 
 ---
