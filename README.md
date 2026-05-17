@@ -4,34 +4,16 @@
 
 💻 **Sobre Mim**
 
-Sou o João Pedro, estudante de Engenharia de Software. Meu foco é simples: transformar problemas complexos em soluções elegantes.
+Sou estudante de Engenharia de Software pela Universidade de Brasília (UnB). Atuo no desenvolvimento Full-Stack e na Engenharia de Dados, focado em construir soluções escaláveis, eficientes e orientadas a dados.
 
-Estou atualmente mergulhado em Estrutura de Dados, Algoritmos e Desenvolvimento Web, sempre com o objetivo de aprender algo novo todos os dias.
+Tenho experiência no desenvolvimento de ponta a ponta: desde a modelagem de bancos de dados relacionais e construção de arquiteturas modulares (com Node.js, TypeScript, React e ecossistema .NET), até a extração, higienização de dados e criação de dashboards analíticos (com Python).
 
-Meu objetivo é construir projetos dos quais eu me orgulhe.
+Meu objetivo é aplicar a tecnologia e a visão sistêmica para transformar problemas reais em sistemas de alto impacto.
 
 ---
 
 🛠️ **Tecnologias** <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJS" />
-</div>
-
-<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cs,dotnet,html,css,react,vite,nodejs,nestjs,django,postgres,supabase,docker,git,github,linux,figma&perline=10" alt="Tech Stack" />
 </div>
 
 ###
@@ -52,25 +34,24 @@ Meu objetivo é construir projetos dos quais eu me orgulhe.
 ---
 
 📚 **Aprendendo atualmente**
-- Python avançado - Foco em automação de processos e análise de dados complexos.
-- Desenvolvimento Web Backend – Aprofundamento em arquiteturas escaláveis e APIs robustas.
-- DevOps & GitHub Actions – Implementação de CI/CD e fundamentos de cultura ágil.
+- 📊 **Ciência de Dados & Machine Learning:** Limpeza, análise e tratamento de grandes bases de dados com Python e ferramentas para tratamento de dados.
+- ☁️ **DevOps & Infraestrutura:** Conteinerização com Docker e CI/CD com GitHub Actions.
+- 🏗️ **Arquitetura Full-Stack:** Construção de APIs robustas, testes automatizados e integrações de sistemas.
   
 ---
 
 🔥 **Principais projetos** 
-- 📦 [DropManager](https://github.com/joaoPedro-201/drop-manager) → Sistema Full Stack para gestão e precificação de produtos importados (NestJS + React)
-- 🏀 [Analisador de estatísticas NBA](https://github.com/joaoPedro-201/nba-analise) → Ferramenta de análise de estatísticas da liga americana de basquete. Desenvolvido com Python e Streamlit.
-- 🏥 [OncoMap](https://github.com/unb-mds/2025-2-OncoMap) → Relatórios de transparência pública sobre investimentos oncológicos no Brasil
-- 🎮 [Pedra, Papel e Tesoura](https://github.com/joaoPedro-201/Projeto_OO) → Um projeto divertido usando Python e POO
-- 🖼️ [Compressor de Imagens](https://github.com/joaoPedro-201/compress-image-to-70kb) → Script em Python para compactar imagens
-  
+- 📦 **[DropManager](https://github.com/joaoPedro-201/drop-manager)** → Plataforma Full-Stack modular para gestão e precificação de produtos importados. Arquitetura com TypeScript, React+Vite, Node.js+Express, Supabase e Docker.
+- ⚙️ **[Web API - Estudo de Caso .NET](Link_do_seu_repositorio_aqui)** → Desenvolvimento de uma API RESTful completa para operações CRUD. Construída com C# e ASP.NET Core, utilizando persistência em memória via Entity Framework Core e configuração de CORS para integração com front-end React.
+- 🏀 **[NBA Advanced Trends Analyzer](https://github.com/joaoPedro-201/nba-analise)** → Dashboard interativo de inteligência esportiva. Processamento de dados em tempo real da API oficial da NBA para cálculo de métricas complexas. Criado com Python, Pandas e Streamlit.
+- 🏥 **[OncoMap](https://github.com/unb-mds/2025-2-OncoMap)** → Plataforma de transparência pública governamental. Foco em engenharia de dados (ETL), limpando e estruturando entradas complexas sobre investimentos oncológicos no Brasil.
+- 🎮 **[Pedra, Papel e Tesoura](https://github.com/joaoPedro-201/Projeto_OO)** → Jogo desenvolvido em Python aplicando conceitos práticos de Programação Orientada a Objetos (POO).
 
 ---
 
 📫 **Entre em contato**
-- 💼 [Linkedin](https://www.linkedin.com/in/joao-pedro-7a76b426a/)
-- 📧 E-mail: joaopedroabc201@gmail.com
+- 💼 **[LinkedIn](https://www.linkedin.com/in/joao-pedro-7a76b426a/)**
+- 📧 **E-mail:** joaopedroabc201@gmail.com
 
 ---
 
